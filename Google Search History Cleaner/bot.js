@@ -1,4 +1,3 @@
-document.getElementsByClassName("gLFyf")[0].click()
 let allRemove = document.getElementsByClassName("sbai");
 setInterval(() => {
     for (let i = 0; i < allRemove.length; i++) {
